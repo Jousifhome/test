@@ -1,0 +1,14 @@
+# Ignore train.zip in src/data
+src/data/train.zip
+# Ignore file named 'test' inside src/data
+src/data/test
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
